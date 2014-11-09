@@ -8,6 +8,7 @@ A curated list of awesome books, videos and courses about startup. Inspired by [
 
 # Book
 * [Quotes / Lessons / Videos for Entrepreneurs and Startups](http://www.blockshelf.com/)
+* [For Entrepreneurs](http://powerbooks.strikingly.com/)
 
 * [Startup Notes](http://startupnotes.org/#page/1)
 
