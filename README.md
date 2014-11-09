@@ -11,7 +11,7 @@ A curated list of awesome books, videos and courses about startup. Inspired by [
 
 * [Startup Notes](http://startupnotes.org/#page/1)
 
-#Video
+# Video
 * [Startup Talks](http://startuptalks.tv/)
 
 # Course
@@ -25,6 +25,6 @@ A curated list of awesome books, videos and courses about startup. Inspired by [
 * [How to Get Startup Ideas](http://paulgraham.com/startupideas.html)
 * [How I got my startup to #1 on both Product Hunt and Hacker News by accident](https://levels.io/product-hunt-hacker-news-number-one/)
 
-#Utility
+# Utility
 
 * [Startup Library](http://www.ycombinator.com/resources/#individuals)
