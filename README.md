@@ -2,9 +2,9 @@ A curated list of awesome books, videos and courses about startup. Inspired by [
 
 - [Book](#book)
 - [Video](#video)
-- [Course](#Course)
-- [Artical](#Artical)
-- [Utility](#Utility)
+- [Course](#course)
+- [Artical](#artical)
+- [Utility](#utility)
 
 # Book
 * [Quotes / Lessons / Videos for Entrepreneurs and Startups](http://www.blockshelf.com/)
