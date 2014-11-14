@@ -25,6 +25,7 @@ A curated list of awesome books, videos and courses about startup. Inspired by [
 * [The Wisdom Of The 20-Minute Startup](http://www.fastcolabs.com/3023152/open-company/the-wisdom-of-the-20-minute-startup)
 * [How to Get Startup Ideas](http://paulgraham.com/startupideas.html)
 * [How I got my startup to #1 on both Product Hunt and Hacker News by accident](https://levels.io/product-hunt-hacker-news-number-one/)
+* [What are the best ways to think of ideas for a startup?](http://www.quora.com/What-are-the-best-ways-to-think-of-ideas-for-a-startup)
 
 # Utility
 
