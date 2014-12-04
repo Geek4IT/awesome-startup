@@ -18,6 +18,7 @@ A curated list of awesome books, videos and courses about startup. Inspired by [
 # Course
 
 * [How to Start a Startup](http://startupclass.samaltman.com/)
+* [Y Combinator Universe](http://ycuniverse.com/)
 
 # Artical
 
