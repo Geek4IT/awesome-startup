@@ -32,3 +32,4 @@ A curated list of awesome books, videos and courses about startup. Inspired by [
 * [Startup Library](http://www.ycombinator.com/resources/#individuals)
 * [Startup Utility](http://www.startuputility.com/)
 * [Startup Admin](http://www.thestartupadmin.com/)
+* [Breakout List](http://www.breakoutlist.com/)
