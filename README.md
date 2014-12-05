@@ -1,4 +1,4 @@
-A curated list of awesome books, videos and courses about startup. Inspired by [awesome-php](https://github.com/vinta/awesome-python).
+A curated list of awesome books, videos and courses about startup. 
 
 - [Book](#book)
 - [Video](#video)
