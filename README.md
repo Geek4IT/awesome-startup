@@ -14,6 +14,7 @@ A curated list of awesome books, videos and courses about startup.
 
 # Video
 * [Startup Talks](http://startuptalks.tv/)
+* [Startup Movies](http://startupmovies.be-genius.com/)
 
 # Course
 
