@@ -37,3 +37,4 @@ A curated list of awesome books, videos and courses about startup.
 * [Startup Admin](http://www.thestartupadmin.com/)
 * [Breakout List](http://www.breakoutlist.com/)
 * [Prototyping Tools](http://prototypingtools.co/)
+* [Startup{ery](http://startupery.com/)
