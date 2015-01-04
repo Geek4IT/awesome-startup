@@ -11,6 +11,7 @@ A curated list of awesome books, videos and courses about startup.
 * [For Entrepreneurs](http://powerbooks.strikingly.com/)
 * [Startup Notes](http://startupnotes.org/#page/1)
 * [Startup Edition](http://startupedition.com/)
+* [Hooked: How to Build Habit-Forming Products](http://amzn.com/1591847788)
 
 # Video
 * [Startup Talks](http://startuptalks.tv/)
@@ -38,3 +39,5 @@ A curated list of awesome books, videos and courses about startup.
 * [Breakout List](http://www.breakoutlist.com/)
 * [Prototyping Tools](http://prototypingtools.co/)
 * [Startup{ery](http://startupery.com/)
+* [Product Hunt](http://www.producthunt.com/)
+* [Slack](https://slack.com/)
