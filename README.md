@@ -13,6 +13,7 @@ A curated list of awesome books, videos and courses about startup.
 * [Startup Edition](http://startupedition.com/)
 * [Hooked: How to Build Habit-Forming Products](http://amzn.com/1591847788)
 
+
 # Video
 * [Startup Talks](http://startuptalks.tv/)
 * [Startup Movies](http://startupmovies.be-genius.com/)
@@ -41,3 +42,4 @@ A curated list of awesome books, videos and courses about startup.
 * [Startup{ery](http://startupery.com/)
 * [Product Hunt](http://www.producthunt.com/)
 * [Slack](https://slack.com/)
+* [Startups.co](https://www.startups.co/)
