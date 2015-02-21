@@ -22,6 +22,7 @@ A curated list of awesome books, videos and courses about startup.
 
 * [How to Start a Startup](http://startupclass.samaltman.com/)
 * [Y Combinator Universe](http://ycuniverse.com/)
+* [Y COMBINATOR STARTUP CLASS](https://courses.platzi.com/classes/startup-class/)
 
 # Artical
 
