@@ -44,3 +44,4 @@ A curated list of awesome books, videos and courses about startup.
 * [Product Hunt](http://www.producthunt.com/)
 * [Slack](https://slack.com/)
 * [Startups.co](https://www.startups.co/)
+* [FREEBIE.SUPPLY](http://freebie.supply/)
