@@ -46,3 +46,4 @@ A curated list of awesome books, videos and courses about startup.
 * [Startups.co](https://www.startups.co/)
 * [FREEBIE.SUPPLY](http://freebie.supply/)
 * [Xtensio](http://xtensio.com/)
+* [Product Hunt Collections](http://www.producthunt.com/@oelmekki/collections/prelaunch)
