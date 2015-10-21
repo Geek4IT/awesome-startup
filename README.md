@@ -34,7 +34,7 @@ A curated list of awesome books, videos and courses about startup.
 * [Startup Quote](http://startupquote.com/#ref=muzli)
 
 # Utility
-
+* [Startup Kit: Winning as a Self-Taught Entrepreneur](https://startupkit.io/ph/?ref=producthunt)
 * [Startup Library](http://www.ycombinator.com/resources/#individuals)
 * [Startup Utility](http://www.startuputility.com/)
 * [Startup Admin](http://www.thestartupadmin.com/)
