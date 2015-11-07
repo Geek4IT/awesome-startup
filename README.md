@@ -47,3 +47,4 @@ A curated list of awesome books, videos and courses about startup.
 * [FREEBIE.SUPPLY](http://freebie.supply/)
 * [Xtensio](http://xtensio.com/)
 * [Product Hunt Collections](http://www.producthunt.com/@oelmekki/collections/prelaunch)
+* [StartupStash](http://startupstash.com/hosting/)
