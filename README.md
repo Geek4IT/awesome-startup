@@ -49,3 +49,4 @@ A curated list of awesome books, videos and courses about startup.
 * [Product Hunt Collections](http://www.producthunt.com/@oelmekki/collections/prelaunch)
 * [Strartup Resources](http://startupresources.io)
 * [StartupStash](http://startupstash.com/hosting/)
+* [Taskade](https://taskade.com/)
