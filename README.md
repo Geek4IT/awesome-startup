@@ -49,3 +49,4 @@ A curated list of awesome books, videos and courses about startup.
 * [Product Hunt Collections](http://www.producthunt.com/@oelmekki/collections/prelaunch)
 * [Strartup Resources](http://startupresources.io)
 * [StartupStash](http://startupstash.com/hosting/)
+* [Mode VC Founder Capital & Equity Workbench](https://modevc.com/tools/) - 18 free browser-side startup calculators for founders: SAFE & option pool dilution, 409A strike price, ISO vs. NSO AMT tax, Venture Debt vs. Equity, ESOP grants, and LLM/GPU unit economics.
